@@ -12,7 +12,7 @@ class Solution:
                 return True
         return False
 
-        
+
         #O(n^3) runtime
         #O(1) storage
         i = 0
